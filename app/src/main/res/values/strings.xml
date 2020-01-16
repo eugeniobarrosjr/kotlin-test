@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjetoKotlin</string>
+    <string name="action_txt">Clique no Botão</string>
+    <string name="altered_action_text">Texto Alterado</string>
+    <string name="button_txt">Jogar</string>
+</resources>
